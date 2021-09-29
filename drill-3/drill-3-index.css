@@ -1,0 +1,74 @@
+.bigtop {
+    position: absolute;
+    box-sizing: border-box;
+    width: 99%;
+    height: 150px;
+    background-color: lightgrey;
+    }
+    .topblue{
+        display: inline;
+        position:absolute;
+        box-sizing: content-box;
+        width: 7%;
+        height: 106px;
+        background-color:rgb(34, 158, 216);
+        margin-top: 22px;
+        margin-left: 22px;
+    }
+    .white {
+        position: absolute;
+        box-sizing: border-box;
+        margin-top: 150px;
+        width: 99%;
+        height: 210px;
+        background-color: whitesmoke;
+            
+        
+        }
+    .top-text {
+        color: blue;
+        width: 35%;
+        height: 50px;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 40px;
+        
+    }
+    .blue {
+        position: absolute;
+        box-sizing: border-box;
+        width: 99%;
+        height: 150px;
+        background-color: rgb(34, 158, 216);
+        margin-top: 360px;
+            
+        }
+
+        .green {
+            position: absolute;
+            box-sizing: border-box;
+            width: 99%;
+            height: 150px;
+            background-color: rgb(87, 215, 219);
+            margin-top: 510px;
+                
+            }
+            .light-green {
+                position: absolute;
+                box-sizing: border-box;
+                width: 99%;
+                height: 150px;
+                background-color: rgb(159, 241, 50);
+                margin-top: 660px;
+                    
+                }
+                .yellow {
+                    position: absolute;
+                    box-sizing: border-box;
+                    width: 99%;
+                    height: 150px;
+                    background-color: rgb(237, 240, 63);
+                    margin-top: 810px;
+                        
+                    }

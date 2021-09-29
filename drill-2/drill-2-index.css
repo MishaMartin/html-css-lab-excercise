@@ -1,0 +1,85 @@
+.bigtop {
+position: absolute;
+box-sizing: border-box;
+width: 99%;
+height: 200px;
+background-color: rgb(244, 244, 244);
+border:solid black 3px;
+    
+
+}
+
+.purple{
+    position: absolute;
+    box-sizing: content-box;
+    width: 5%;
+    height: 160px;
+    background-color: rgb(118, 22, 170);
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.green{
+    display: inline;
+    position:absolute;
+    box-sizing: content-box;
+    width: 35%;
+    height: 180px;
+    background-color: rgb(18, 112, 35);
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.circleblue{
+    display: inline;
+    position: absolute;
+    box-sizing: content-box;
+    width: 180px;
+    height: 180px;
+    background-color: rgb(103, 198, 241);
+    margin-top: 10px;
+    margin-left: 850px;
+    border-radius: 30cm 30cm 30cm 30cm;
+}
+.bigmiddle {
+    margin-top:  220px;
+    position: absolute;
+    box-sizing: border-box;
+    width: 99%;
+    height: 200px;
+    background-color: rgb(244, 244, 244);
+    border: dashed black 3px;
+    
+    }
+
+.yellow {
+    margin-top: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    width: 90%;
+    height: 150px;
+    background-color: rgb(216,210,159);
+    box-shadow: 10px 10px 5px black;
+    margin-left: 65px;
+}
+.bigbottom {
+    margin-top:  442px;
+    position: absolute;
+    box-sizing: border-box;
+    width: 50%;
+    height: 325px;
+    background-color: rgb(244, 244, 244);
+    border: solid rgb(187, 185, 185) 3px;
+    box-shadow: 10px 10px 5px rgb(161, 159, 159);
+    margin-left:525px;
+}
+.bottom-text {
+    color: blue;
+    width: 35%;
+    height: 50px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    
+}
