@@ -1,0 +1,38 @@
+.divtop{
+    box-sizing: border-box;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(90, 90, 90);
+}
+
+.divleft{
+    display: inline-block;
+        box-sizing: border-box;
+        width: 12%;
+        height: 7.8in;
+        background-color: rgb(212, 211, 211);
+}
+
+.divright{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: rgb(212, 211, 211);
+    padding-left: 12%;
+    height: 7.8in;
+    width: 5px;
+    position: absolute;
+    justify-self: right;
+    margin-left: 1434px;
+}
+
+.divbottom{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: black;
+    height: 1in;
+    width: 14.94in;
+    position: absolute;
+    justify-self: baseline;
+    margin-top: 653px;
+
+}
